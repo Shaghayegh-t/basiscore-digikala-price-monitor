@@ -1,0 +1,10 @@
+env/
+config.py
+
+# Database
+*.db
+prices.db
+
+# Python cache
+__pycache__/
+*.pyc
