@@ -308,12 +308,7 @@ print("✅ Email sent!" if success else "❌ Email failed")
 ```
 .
 
-## 🙏 تشکر و قدردانی
-
-- [BasisCore.Server.Edge](https://github.com/Manzoomeh/BasisCore.Server.Edge) - فریمورک وب 
-- [Playwright](https://playwright.dev/) - ابزار automation مرورگر
-- [Digikala](https://www.digikala.com/) -  فروشگاه اینترنتی دیجیکالا
- 🔗 لینک‌های مفید
+## 🔗 لینک‌های مفید
 
 - [مستندات BasisCore](https://basiscore.com/)
 - [راهنمای Playwright](https://playwright.dev/python/docs/intro)
