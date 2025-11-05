@@ -63,7 +63,7 @@
 ### مرحله 1: کلون کردن پروژه
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/basiscore-digikala-price-monitor.git
+git clone https://github.com/Shaghayegh-t/basiscore-digikala-price-monitor.git
 cd basiscore-digikala-price-monitor
 ```
 
